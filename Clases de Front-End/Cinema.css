@@ -1,0 +1,25 @@
+p{
+	text-align:center;
+	font-size:40px;
+}
+input{
+	text-align:center;
+	margin-left: 600px
+}
+
+#bt1{
+	margin-left:575px;
+}
+#bt2{
+	margin-left:10px;
+}
+#bt3{
+	margin-left:10px;
+
+}
+#imagen{
+	margin-left:625px;
+}
+#fecha{
+	width:168px;
+}
